@@ -1,3 +1,3 @@
 # Netflix Content Analysis Dashboard
 
-![Netflix Dashboard](Netflix_Dashboard.png)
+![Netflix Dashboard](Netfilx_Dashboard.png)
